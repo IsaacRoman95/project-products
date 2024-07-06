@@ -47,7 +47,7 @@ php artisan storage:link
 <p>Es importante mantener el mismo nombre para que no existan conflictos al momento de ejecutar las migraciones de la base de datos.</p>
 
 ```
-CREATE DATABASE IF NOT EXISTS apuestatotalweb;
+CREATE DATABASE IF NOT EXISTS dbproducts;
 ```
 <p>En el caso que usted decida crear la base de datos con otro nombre debe especificar ese nombre de su base de datos en el archivo .env</p>
 
